@@ -2,7 +2,7 @@
 # The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
 
 TOTAL_AUTHORS = 100
-TOTAL_POSTS = 1000
+TOTAL_POSTS = 5000
 COMMENTS_PER_POST = 50
 
 Author.delete_all
